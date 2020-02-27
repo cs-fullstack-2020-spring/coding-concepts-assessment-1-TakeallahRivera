@@ -1,0 +1,50 @@
+
+.gridContainer {
+   border: 4px red; 
+   padding: 1%;
+   display: grid;
+
+   
+}
+
+.gridHeader {
+margin: 10px
+border: 1px
+padding: 10px
+grid-row: 1/4
+grid-column: 1
+
+}
+
+.gridMain{
+    margin: 6px
+    padding:
+    border:
+    grid-row:
+    grid-column:
+    
+}
+
+.gridSidebar {
+    margin: 6px
+padding:
+border:
+grid-row:
+grid-column:
+}
+
+.gridFooter{
+margin: 6px
+padding:
+border:
+grid-row:
+grid-column:
+
+}
+
+html{
+    color: fuchsia;
+    text-align: center;
+    font-weight: bold;
+ 
+}
