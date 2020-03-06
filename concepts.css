@@ -9,8 +9,8 @@
 
 .gridHeader {
 margin: 10px
-border: 1px
-padding: 10px
+/* border: 1px
+padding: 10px */
 grid-row: 1/4
 grid-column: 1
 
